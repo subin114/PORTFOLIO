@@ -187,6 +187,8 @@ body::-webkit-scrollbar-track { background: #ffffff;}
 
 .metxt {font-size: 110px; color:rgba(0, 0, 0, 0.281); position: absolute; top:8%; left: 15%; letter-spacing: -2px; font-family: 'Josefin Slab';}
 
+.profileimg {background-color:#eee; width: 170px; height:220px;}
+
 
 /* ---- reset ---- */
 
